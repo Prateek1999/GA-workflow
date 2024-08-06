@@ -5,6 +5,6 @@ display_files:
  runs-on: ubuntu latest
  steps:
   -name: display output
-  run:|
+  run: |
    echo "Hello World"
   shell:bash
