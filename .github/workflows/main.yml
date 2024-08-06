@@ -7,4 +7,4 @@ display_files:
   -name: display output
   run: |
    echo "Hello World"
-  shell:bash
+  shell: bash
