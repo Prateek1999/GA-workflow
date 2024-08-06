@@ -4,7 +4,7 @@ jobs:
   name: run a sample command
   runs-on: ubuntu latest
   steps:
-   -name: display output
-   run: |
-    echo "Hello World"
-   shell: bash
+   - name: display output
+    run: |
+     echo "Hello World"
+    shell: bash
